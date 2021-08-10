@@ -4,8 +4,7 @@
 <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
 
 <img align="left" alt="Brain" width="300" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp">
-
-
+<br>
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
 Greetings Everyone!

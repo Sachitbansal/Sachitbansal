@@ -9,4 +9,4 @@
 
 ### Connect with me:
 
-<img aligh="left" alt="Website" width="25px" src="https://img.icons8.com/ios-filled/2x/domain.png"/>
+<img aligh="left" alt="Website" width="22px" src="https://visualpharm.com/assets/962/Website-595b40b75ba036ed117d8c0c.svg" href="sbssdigital.com"/>

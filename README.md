@@ -25,7 +25,6 @@ I Sachit Bansal, Welcome you to my Github Profile
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Github Desktop" width="26px" src="https://dl2.macupdate.com/images/icons256/39062.png?d=1522354604" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="right" alt="Flutter" widht="auto" height="300" src="https://cdn3.vectorstock.com/i/1000x1000/24/52/programming-and-coding-vector-19602452.jpg" />
 
 <br>
 <br>

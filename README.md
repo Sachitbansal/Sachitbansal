@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Sachitbansal/Sachitbansal/blob/main/name-logo%20(1).png" width="auto" height="auto">
 </p>	
-<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="180">
 
 <img align="left" alt="Brain" width="300" src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/200w.webp">
 <br>

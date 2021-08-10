@@ -8,10 +8,7 @@
 
   <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
 
-Greetings Everyone!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" />
+Greetings Everyone!
          <br />
 
 I Sachit Bansal, Welcome you to my Github Profile

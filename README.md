@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sachitbansal/Sachitbansal/blob/main/name-logo%20(1).png" width="auto" height="200">
+  <img src="https://github.com/Sachitbansal/Sachitbansal/blob/main/name-logo%20(1).png" width="auto" height="auto">
 </p>	
 <img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/waves.svg" width="100%" height="150">
 

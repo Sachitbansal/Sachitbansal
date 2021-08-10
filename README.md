@@ -29,16 +29,15 @@ I Sachit Bansal, Welcome you to my Github Profile
 <br>
 <br>
 
-### Languages and Frameworks:
+### Code IDE's:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Android" width="26px" src="https://github.com/Sachitbansal/Sachitbansal/blob/main/android.png" />
 <img align="left" alt="PHPStorm" width="26px" src="https://github.com/Sachitbansal/Sachitbansal/blob/main/phpstorm.png" />
 <img align="left" alt="Pycharm" width="26px" src="https://github.com/Sachitbansal/Sachitbansal/blob/main/pycharm.png" />
 <img align="left" alt="Intelij" width="26px" src="https://github.com/Sachitbansal/Sachitbansal/blob/main/intelijidea.png" />
+
 <br />
-
-### Connect with me:
-
+<br>
 
 ![Sachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachitbansal&show_icons=true&theme=radical)
 
@@ -46,10 +45,4 @@ I Sachit Bansal, Welcome you to my Github Profile
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachitbansal&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/IshaanXCoder/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachitbansal.visitor-badge)
-  
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-## I am good at a few things:
-
-<img src="https://raw.githubusercontent.com/fredgrott/FredGrott/gh-pages/tags.svg" width="auto" height="200">
-
+ 

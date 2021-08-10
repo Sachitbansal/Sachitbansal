@@ -42,7 +42,7 @@ I Sachit Bansal, Welcome you to my Github Profile
 ![Sachit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachitbansal&show_icons=true&bg_color=3,10749c,109c8b&text_color=defffb&title_color=defdff&icon_color=defdff)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachitbansal&layout=compact&show_icons=true&include_all_commits=true&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite)](https://github.com/Sachitbansal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachitbansal&layout=compact&show_icons=true&include_all_commits=true&bg_color=2,6fe8a4,87ffbb&text_color=4b6b59&title_color=4b6b59&icon_color=4b6b59&theme=graywhite)](https://github.com/Sachitbansal/github-readme-stats)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sachitbansal.visitor-badge)
  

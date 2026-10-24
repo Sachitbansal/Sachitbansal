@@ -1,0 +1,51 @@
+name: profile
+
+# Regenerates the live images the README pulls from the `output` branch:
+# the contribution snake and the stats card.
+on:
+  schedule:
+    - cron: "17 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-light&color_snake=#0aa3ad
+            dist/snake-dark.svg?palette=github-dark&color_snake=#00f7ff&color_dots=#161b22,#0a3d40,#0b6e73,#06a6ad,#00f7ff
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Stats card
+        env:
+          # A PAT in METRICS_TOKEN (read:user) also counts private contributions; GITHUB_TOKEN sees public only.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/stats_card.py ${{ github.repository_owner }} dist/stats.svg
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: refresh profile images"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110" role="img" aria-label="End of transmission">
+  <title>EOF</title>
+  <defs>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#00f7ff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#00f7ff"/>
+      <stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .trace { fill:none; stroke:url(#fade); stroke-width:2; stroke-dasharray:2600; stroke-dashoffset:2600; animation:run 4s linear infinite; }
+    .ghost { fill:none; stroke:#00f7ff; stroke-opacity:.08; stroke-width:2; }
+    .eof { font:13px 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; fill:#8b949e; letter-spacing:4px; }
+    @keyframes run { to { stroke-dashoffset:0; } }
+    @media (prefers-reduced-motion: reduce) { .trace { animation:none; stroke-dashoffset:0; } }
+  </style>
+  <path d="M0,40 L70,40 L80,30 L90,40 L100,40 L108,52 L118,8 L128,66 L136,40 L160,40 L172,32 L186,40 L200,40 L270,40 L280,30 L290,40 L300,40 L308,52 L318,8 L328,66 L336,40 L360,40 L372,32 L386,40 L400,40 L470,40 L480,30 L490,40 L500,40 L508,52 L518,8 L528,66 L536,40 L560,40 L572,32 L586,40 L600,40 L670,40 L680,30 L690,40 L700,40 L708,52 L718,8 L728,66 L736,40 L760,40 L772,32 L786,40 L800,40 L870,40 L880,30 L890,40 L900,40 L908,52 L918,8 L928,66 L936,40 L960,40 L972,32 L986,40" class="ghost"/>
+  <path d="M0,40 L70,40 L80,30 L90,40 L100,40 L108,52 L118,8 L128,66 L136,40 L160,40 L172,32 L186,40 L200,40 L270,40 L280,30 L290,40 L300,40 L308,52 L318,8 L328,66 L336,40 L360,40 L372,32 L386,40 L400,40 L470,40 L480,30 L490,40 L500,40 L508,52 L518,8 L528,66 L536,40 L560,40 L572,32 L586,40 L600,40 L670,40 L680,30 L690,40 L700,40 L708,52 L718,8 L728,66 L736,40 L760,40 L772,32 L786,40 L800,40 L870,40 L880,30 L890,40 L900,40 L908,52 L918,8 L928,66 L936,40 L960,40 L972,32 L986,40" class="trace"/>
+  <text x="500" y="100" text-anchor="middle" class="eof">── END OF TRANSMISSION ──</text>
+</svg>
